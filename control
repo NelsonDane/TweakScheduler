@@ -1,0 +1,9 @@
+Package: com.gamersnail.tweakscheduler
+Name: TweakScheduler
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Allows you to enable and disable certain tweaks at certain times!
+Maintainer: Nelson Dane
+Author: Nelson Dane
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.13)
